@@ -13,7 +13,6 @@
 9. Escribe una función que tome un número decimal como argumento y devuelva el número redondeado al entero más cercano.
 10. Escribe una función que genere y devuelva un número aleatorio entre 0 y 1.
 
-
 ## Letras:
 
 1. Escribe una función que tome dos cadenas de texto como argumentos y devuelva su concatenación.
@@ -26,7 +25,6 @@
 8. Escribe una función que tome una cadena de texto como argumento y devuelva la misma cadena sin espacios en blanco.
 9. Escribe una función que tome una cadena de texto como argumento y devuelva true si es un palíndromo (se lee igual de izquierda a derecha y de derecha a izquierda), o false si no lo es.
 10. Escribe una función que tome una cadena de texto como argumento y devuelva la misma cadena con la primera letra de cada palabra en mayúscula.
-
 
 ## Arrays:
 
