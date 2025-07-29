@@ -13,8 +13,7 @@ if "%commit_msg%"=="" (
 :: Ejecuta los comandos de Git
 git add .
 git commit -m "%commit_msg%"
-git push origin
-
+git push origin main
 echo.
 echo ✅ Código subido: "%commit_msg%"
 pause
